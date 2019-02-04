@@ -1,13 +1,10 @@
-package net.ciklum.erm.pages;
+package net.example.test.pages;
 
 import com.codeborne.selenide.Selenide;
-import net.ciklum.erm.Config;
+import net.example.test.Config;
 
 import static com.codeborne.selenide.Selenide.$;
 
-/**
- * Created by irisha on 7/8/16.
- */
 public class LoginPage {
 
     public void open(){

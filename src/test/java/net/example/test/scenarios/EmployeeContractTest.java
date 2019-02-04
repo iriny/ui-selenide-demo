@@ -1,15 +1,12 @@
-package net.ciklum.erm.scenarios;
+package net.example.test.scenarios;
 
-import net.ciklum.erm.Config;
-import net.ciklum.erm.pages.EmployeePage;
-import net.ciklum.erm.pages.LoginPage;
-import net.ciklum.erm.pages.NewContractPage;
+import net.example.test.Config;
+import net.example.test.pages.EmployeePage;
+import net.example.test.pages.LoginPage;
+import net.example.test.pages.NewContractPage;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-/**
- * Created by irisha on 7/7/16.
- */
 public class EmployeeContractTest {
 
     @BeforeClass
